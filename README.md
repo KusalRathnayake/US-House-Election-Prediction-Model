@@ -1,4 +1,4 @@
-# Machine Leaning Models for the Prediction of Us House Election Outcome Using District Level Social and Economic Predictors
+# Machine Leaning Models for the Prediction of Us House Election Outcome Using District Level Demographic and Socio-Economic Predictors
 In this study, 10 district level demographic and socio-economic variables were used to build a prediction model of US house election outcome.
 
 Predictor Variables:
